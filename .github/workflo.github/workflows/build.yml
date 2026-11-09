@@ -32,5 +32,5 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: Game-Land-Client
-          path: build/libs/*.jar
+          path: build/libs/game-land-client-0.1.0.jar
           
